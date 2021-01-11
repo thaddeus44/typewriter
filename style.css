@@ -9,8 +9,7 @@ html,body {
   word-spacing: 1em;
   white-space: nowrap;
   position: relative;
-  max-width: 80%;
-  width: 580px;
+  width: 650px;
 }
 
 a {
