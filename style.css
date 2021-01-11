@@ -2,15 +2,15 @@ html,body {
   text-rendering: optimizeSpeed;
   font-family: space mono;
   padding: inherit;
-  font-size: 30px;
+  font-size: 16px;
   background: black;
   color: white;
   letter-spacing: .1em;
   word-spacing: 1em;
   white-space: nowrap;
   position: relative;
-  max-width: 90%;
-  width: 780px;
+  max-width: 80%;
+  width: 580px;
 }
 
 a {
